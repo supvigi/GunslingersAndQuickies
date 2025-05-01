@@ -10,11 +10,10 @@ After the game has set up the fight, the player picks a character from the given
 Then, the program proceeds to start the gunfight
 
 The gunfight works as follows:
-  The gunfight takes simultaneous turns, each turn is 1 in-game second, which can be used by the fighters for taking different actions
-  Wdym simulatenous turns?:
-    The fighters pick their actions in a line if local, but the aftermath is detected
+The gunfight takes simultaneous turns, each turn is 1 in-game second, which can be used by the fighters for taking different actions
+Simultaneous turns - the fighters pick their actions in a line if local, but the aftermath is detected
 
-  The fighters have several actions to do during their turn:
+The fighters have several actions to do during their turn:
 
 1. Draw (takes the the time specified as drawing speed of the firearm + any character perks)
   Your character draws their weapon. A weapon cannot be shot before being drawn (unless you want to shoot your own toe off)
